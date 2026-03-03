@@ -84,7 +84,7 @@ Projeto desenvolvido como prática durante o **Bootcamp Node.js da DIO (Digital 
 
 Cleyton Pereira dos Santos
 Tecnólogo em Análise e Desenvolvimento de Sistemas
-Foco em desenvolvimento Back-end & Node.js
+Foco em desenvolvimento Front-end & Node.js
 
 ---
 
